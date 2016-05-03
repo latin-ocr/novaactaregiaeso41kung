@@ -1,0 +1,36 @@
+UNTERSUCHUNGEN &BER DEN δΕιΒεΤΤῡΝ. WVELLENSTROMLICHTBOGEN. 45
+
+4. Die Wirkung der selbstinduktion in der Batterieleitung.
+
+Im Vorhergehenden haben wir angenommen, dass keine Selbst-
+induktion in der Basterieleitung vorhanden war„ und wir wollen daher
+nun untersuohen, welchen Einssuss 61116 5016116 auf die elektrischen
+Erscheinungen in dem selbsttffinenden Liohtbogen hat. Wir wollen
+dabei annehmen, dass eine Kapazi‘tfflt und Selbstinduktion enthaltende
+Leitung dem Lichtbogen parallel gesohaltet ist und dass aus dem einen
+oder anderen Anlass die Spannung im Liohtbogen zunimmt. Infolge-
+dessen wird (161· Kondensator geladen‚ und zur Bestimmung dieses
+Ladungsstroms haben wir folgende Gleichungen, deren Bedeutung wir
+oben erfirtert,
+
+E=RI÷LZ7I÷V3 (1)
+V=V0÷k'A÷p{Z{¹; (2)
+I ὲ- Α -Ι- ί; (3)
+V=ri÷lg÷e2 (4)
+⁷²03 (5) s
+Wird die (116161111Πὲ- (3) differentiiert, so erhkilt man (ἐ L Ι 5
+η..
+cll — dA αιῑ Χῖξς ³514
+(Tc - W ÷ π Q
+und werden {A} und [Ι zwischen dieser Gleiohung und den Gleichungen
+
+<lt dt
+(1) und (2) eliminiert, so el‘h‘cilt man
+
+L9g=E9—V(L†Q)÷LV0⁴R0I÷L7{'A-
+
+Wird diese Gleichung mit der Gleichung (3) kombiniert, So er-
+halt man unter der Vorffllsetzung, dass
+
+Lk‘—R9{0‚
+

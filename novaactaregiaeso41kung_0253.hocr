@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaregiaeso41kung/novaactaregiaeso41kung_0253.png"; bbox 0 0 2101 3095; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 73 227 2018 277">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 73 227 2018 277">
+     <span class='ocr_line' id='line_1_1' title="bbox 73 227 2018 277; baseline -0.008 -6"><span class='ocrx_word' id='word_1_1' title='bbox 73 243 158 272; x_wconf 81' lang='lat' dir='ltr'>Nova</span> <span class='ocrx_word' id='word_1_2' title='bbox 179 243 256 270; x_wconf 83' lang='lat' dir='ltr'>Acta</span> <span class='ocrx_word' id='word_1_3' title='bbox 279 240 354 277; x_wconf 82' lang='lat' dir='ltr'>Reg.</span> <span class='ocrx_word' id='word_1_4' title='bbox 378 239 441 268; x_wconf 85' lang='lat' dir='ltr'>Soc.</span> <span class='ocrx_word' id='word_1_5' title='bbox 465 239 511 268; x_wconf 82' lang='lat' dir='ltr'>Sc.</span> <span class='ocrx_word' id='word_1_6' title='bbox 526 239 597 272; x_wconf 63' lang='lat' dir='ltr'>Uos.</span> <span class='ocrx_word' id='word_1_7' title='bbox 622 238 686 270; x_wconf 81' lang='lat' dir='ltr'>Ser,</span> <span class='ocrx_word' id='word_1_8' title='bbox 709 239 767 268; x_wconf 90' lang='lat' dir='ltr'>IV.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1845 228 1910 258; x_wconf 80' lang='lat' dir='ltr'>Taf.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1924 227 2018 257; x_wconf 93' lang='lat' dir='ltr'>VIII.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 151 393 1980 2691">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 151 393 1980 2691">
+     <span class='ocr_line' id='line_1_2' title="bbox 151 393 1980 2691; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 151 393 1980 2691; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 87 2748 2016 2773">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 87 2748 2016 2773">
+     <span class='ocr_line' id='line_1_3' title="bbox 87 2748 2016 2773; baseline 0.001 -7"><span class='ocrx_word' id='word_1_12' title='bbox 87 2749 112 2766; x_wconf 72' lang='lat' dir='ltr'>A.</span> <span class='ocrx_word' id='word_1_13' title='bbox 127 2748 196 2766; x_wconf 71' lang='lat' dir='ltr'><strong>Thulin</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 211 2751 230 2767; x_wconf 77' lang='grc' dir='ltr'>οι</span> <span class='ocrx_word' id='word_1_15' title='bbox 244 2749 291 2768; x_wconf 79' lang='lat' dir='ltr'>Rob.</span> <span class='ocrx_word' id='word_1_16' title='bbox 307 2749 330 2768; x_wconf 76' lang='lat' dir='ltr'>E.</span> <span class='ocrx_word' id='word_1_17' title='bbox 347 2750 399 2769; x_wconf 73' lang='lat' dir='ltr'>Frieu</span> <span class='ocrx_word' id='word_1_18' title='bbox 413 2751 448 2769; x_wconf 76' lang='lat' dir='ltr'>dol.</span> <span class='ocrx_word' id='word_1_19' title='bbox 1527 2749 1596 2772; x_wconf 66' lang='lat' dir='ltr'>Ljusn:</span> <span class='ocrx_word' id='word_1_20' title='bbox 1608 2749 1891 2773; x_wconf 57' lang='lat' dir='ltr'>ABAEugnshus&amp;Westphnl.</span> <span class='ocrx_word' id='word_1_21' title='bbox 1901 2749 2016 2767; x_wconf 68' lang='lat' dir='ltr'>suxzklwlun.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

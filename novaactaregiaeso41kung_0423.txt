@@ -1,0 +1,42 @@
+Dm FUNC'HON TU) UND [ΗΒΕ ANWENDUNG ΑΗΕ ELLLPTISCHE FUNCTmNEN 21
+
+1ὲ1851, ohne dass die Gre'sse l dem absoluten Betrage nach den Werth
+
+tg224 iiberschreitet, oder m. a. W. ioh will den vollstc'c'ndiyen Theilbereich
+von T' aufsuohen, in welchem iiberall
+mgess (m
+
+ist.
+Um nun zunziohst den NVEOERSTRASS'sehen Satz, dass im ganzen
+Bereiohe (A -Ι- Α’) die Beziehung (46) stattfindet, zu beweisen‚ setzen wir
+
+1 - t = δ’ , (47)
+woraus sofort erhellt‚ dass die Ger-ade, welche die Punkte tund δ’ ver-
+bindet, von dem Punkte U(U') ‚ Fig. l 7 halbiert wird.
+
+Hieraus ersieht man seglei0h‚ dass der Punkt {sic-h beziehungs-
+weise im Bereiche
+
+A ‚ A' ‚ F , F', Ε , Ε’ .....
+befindet, je naehdem der Punkt ε’ 111
+B', B, 0', G, D‘7 D‚..
+
+gelegen ist.
+Wir ffihren jetzt die Substitutionx
+
+cs? = ρσ-θί (48)
+
+ein. Damit hier die viel‘te XVurzel ihren Hauptwerth hat, nehmen wil·
+
+an, was stets moglioh ist, dass
+
+{³123 ἐ
+
+ζ <m
+
+ist. Es ergiebt sich dann aus (47) und (48) die Gleiehung
+1- t = <24 Cos 41¹) — ἰῶ Sin 42⁶) ‚
+welche, wem] man
+
+t=x÷yi (50)
+

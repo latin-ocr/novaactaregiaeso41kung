@@ -1,0 +1,46 @@
+UNTERSUCHUNGEN &BER DEN SELBSTTON. W'ELLENSTROMLICHTBOGEN. 47
+
+wo Q ᾖ und Θ Konstanten sind und λ, , ²2 ‚ λ3 Wurzeln der Gleiehung
+dritten Grades
+
+ 
+
+1723 -1- ἓῑὶηῖ -Ι- ἕδη] -Ι- (ιῖ = O ‚ (8)
+wo
+R—k r-k
+³21 Ξ —L- -1- ῌΤῌῖ
+, H - k·
+Φ ³ τῇ·
+
+Dei· Clmrakter (161· Ladung liiingt von (161· Besehaffenheit (161Ί
+Wurzeln λι . λ2 . λδ ab. und liierfi'u· ist bekanntlieh das Vorzeiehen der
+Diskriminante bestimmend.
+
+Die Diski‘iminante (161· Gleiohung (δ’) ist
+
+D=OEQLbQss—NQQQ÷4wQ—QQQ
+
+Wenn D < 0, so sind alle Wurzeln reell. Nun ist, wie wir
+oben gesehen, lc. sehr klein im Yerhziltnis zu R und nmglioherweise
+von dei-selben Grijssenordmmg wie r. Infolgedessen sind die Kon-
+stanten Ἃ, Ξό und (ξ positive Grossen. In der Gleichung (S) haben wir
+also drei Zeiehenfolgen und keinen Zeiehenweohsel. Folglich sind siimt-
+liche Wurzeln nach Descartes Regel negativ. In diesem Fan wird
+also die Ladung des Kondensators aperiodisch.
+
+Wir gehen 111111 zu dein Fan tiber, dass D > Ο. Die Gleiehung
+(8) hat dann eine reelle W'urzel und zwei konjugIert imaginffl‘e XVur-
+zeln, die wir mit λ, α -1-ίβ und α »- is} bezeichnen wellen.
+
+Die Liisung der Differentialgleiehung hat daim die Form
+
+ι’ = &emi- {sefflcos βί -1- &efflsin βε ‚
+
+wo (ξ, {3 und Θ veelle Konstanten siud.
+Zur Bestimmung der Vorzeiehen von ,λ 1111(1 α 1)ἰΙ(1611 wir die
+Gleiehungen
+
+z÷2a=m³21
+2αλ-1-α2-1-β32ᾞ
+λ(α“Ζ-1-βῖ)Ξ-(ᾇ.
+
